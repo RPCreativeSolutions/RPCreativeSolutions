@@ -15,13 +15,15 @@ At RPCreativeSolutions, our mission is to empower businesses with cutting-edge s
 ### 👔 Our Expertise
 We bring a wealth of experience in various technologies and methodologies. Here are some of the key areas we specialize in:
 
-- HCL Domino (Xpages Development)
+
 - Web Development (JavaScript, Bootstrap, CSS and HTML)
 - Database Management (SQL, Oracle, Postgres, MySQL)
+- SAAS (Power Platform)
 - Reports (PowerBI and Cognos)
 - Python
 - Java
 - Node.js
+- Azure AWS GCP
 - React.js / Vue.js / Angular.js
 - Content Creation
 - Application Design and Development
@@ -30,15 +32,6 @@ We bring a wealth of experience in various technologies and methodologies. Here 
 
 ### 👔 Our Projects
 We invite you to explore our repositories, which showcase a range of projects we have developed. These projects highlights our commitment to quality and our abilities to solve complex problems efficiently. 
-
-### 👔 Highlighted Projects
-
-COMS TF Workflow: A robust HCL Domino-based application designed to streamline business processes using Xpages/Java/Javascript/HTML on the HCL platform.
-
-Cofinancing DB Reports: An innovative solution for producing reports using Cognos, PowerBI, SQL, Oracle and HTML.
-
-COMS: A comprehensive tool for managing funds, bank projects, bank products, cofinancing , agreements, troubleshooting and debugging web applications, enhancing performance and user experience.
-
 
 ### 🔗 Get in Touch
 We are always looking for new ideas and opportunities to make a positive impact through technology. If you are interested in our services or have any questions, please feel free to reach out.
